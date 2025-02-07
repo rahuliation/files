@@ -1,69 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/BPL.jpg", BPL
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/BPL.jpg", BPL
 http://172.16.29.3:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/Tsport.png", Tsport
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Tsport.png", Tsport
 http://10.255.25.4/hls/tv2.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/pvtsports.png", pvtsports
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/pvtsports.png", pvtsports
 http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/gtv.png", gtv
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/gtv.png", gtv
 http://10.255.25.4/hls/tv3.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/starsports1.png", starsports1
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/starsports1.png", starsports1
 http://10.255.25.4/hls/tv1.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/deepto-tv.png", deepto-tv
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/deepto-tv.png", deepto-tv
 http://10.255.25.4/hls/tv4.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/geonews.png", geonews
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/geonews.png", geonews
 http://172.16.29.3:8090/hls/GEONews.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/aljazeranews.png", aljazeranews
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/aljazeranews.png", aljazeranews
 http://172.16.29.3:8090/hls/AlJazeeraNews.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/jamunatv.png", jamunatv
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/jamunatv.png", jamunatv
 http://172.16.29.3:8090/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/zeebangla.png", zeebangla
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/zeebangla.png", zeebangla
 http://172.16.29.3:8090/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/starjalsha.png", starjalsha
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/starjalsha.png", starjalsha
 http://172.16.29.3:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/Sony Aath1667728032.png", Sony Aath1667728032
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Sony Aath1667728032.png", Sony Aath1667728032
 http://172.16.29.3:8090/hls/sonyatth.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/enterbangla.png", enterbangla
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/enterbangla.png", enterbangla
 http://172.16.29.3:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/jalshamovies.png", jalshamovies
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/jalshamovies.png", jalshamovies
 http://172.16.29.3:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/zee-tv-hd.jpg", zee-tv-hd
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/zee-tv-hd.jpg", zee-tv-hd
 http://172.16.29.3:8090/hls/zeetvhd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/stargoldhd.png", stargoldhd
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/stargoldhd.png", stargoldhd
 http://172.16.29.3:8090/hls/stargoldhd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/colors.png", colors
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/colors.png", colors
 http://172.16.29.3:8090/hls/colorshd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/sonysports2.png", sonysports2
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/sonysports2.png", sonysports2
 http://172.16.29.3:8090/hls/sonyten2hd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/sonysports5.png", sonysports5
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/sonysports5.png", sonysports5
 http://172.16.29.3:8090/hls/sonyten5hd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/eurosport.png", eurosport
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/eurosport.png", eurosport
 http://172.16.29.3:8090/hls/eurosportshd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/nicktv.png", nicktv
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/nicktv.png", nicktv
 http://172.16.29.3:8090/hls/nicktvhdplus.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/dicoveryKid.png", dicoveryKid
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/dicoveryKid.png", dicoveryKid
 http://172.16.29.3:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/pogo.png", pogo
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/pogo.png", pogo
 http://172.16.29.3:8090/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/durontotv.jpg", durontotv
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/durontotv.jpg", durontotv
 http://172.16.29.3:8090/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/discoveryhd.png", discoveryhd
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/discoveryhd.png", discoveryhd
 http://172.16.29.3:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/andpic.png", andpic
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/andpic.png", andpic
 http://172.16.29.3:8090/hls/AndPictureTV.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/andprive.png", andprive
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/andprive.png", andprive
 http://172.16.29.3:8090/hls/AndPriveHD.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/Ary.png", Ary
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Ary.png", Ary
 http://172.16.29.3:8090/hls/ARYDigital.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/Starlife.png", Starlife
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Starlife.png", Starlife
 http://172.16.29.3:8090/hls/StarLifeHD.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/andflix.png", andflix
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/andflix.png", andflix
 http://172.16.29.3:8090/hls/andflixhd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/sonypix.png", sonypix
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/sonypix.png", sonypix
 http://172.16.29.3:8090/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/Axnhd.jpg", Axnhd
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Axnhd.jpg", Axnhd
 http://172.16.29.3:8090/hls/axnhd.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/63masti.png", 63masti
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/star-movies-hd.jpg", star-movies-hd
+http://172.16.29.3:8090/hls/starmovieshd.m3u8
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/63masti.png", 63masti
 http://172.16.29.3:8090/hls/mastii.m3u8
-#EXTINF:-1 tvg-logo="http://http://10.255.26.2/img/9xm.png", 9xm
+#EXTINF:-1 tvg-logo="http://10.255.26.2/img/9xm.png", 9xm
 http://172.16.29.3:8090/hls/9xm.m3u8
