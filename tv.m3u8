@@ -69,3 +69,69 @@ http://172.16.29.3:8090/hls/starmovieshd.m3u8
 http://172.16.29.3:8090/hls/mastii.m3u8
 #EXTINF:-1 tvg-logo="http://10.255.26.2/img/9xm.png", 9xm
 http://172.16.29.3:8090/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/geonews.png", geonews
+http://172.16.29.3:8090/hls/GEONews.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/aljazeranews.png", aljazeranews
+http://172.16.29.3:8090/hls/AlJazeeraNews.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/zeebangla.png", zeebangla
+http://172.16.29.3:8090/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/starjalsha.png", starjalsha
+http://172.16.29.3:8090/hls/starjalshahd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sonyaath.png", sonyaath
+http://172.16.29.3:8090/hls/sonyatth.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/enterbangla.png", enterbangla
+http://172.16.29.3:8090/hls/Enter10Bangla.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/jalshamovies.png", jalshamovies
+http://172.16.29.3:8090/hls/jalshamovieshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/zeetv.png", zeetv
+http://172.16.29.3:8090/hls/zeetvhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/stargoldhd.png", stargoldhd
+http://172.16.29.3:8090/hls/stargoldhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/colors.png", colors
+http://172.16.29.3:8090/hls/colorshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/zoomtv.png", zoomtv
+http://172.16.29.3:8090/hls/mtvindia.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sony.png", sony
+http://172.16.29.3:8090/hls/sonyhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/ptvsports.png", ptvsports
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sony-ten-2.png", sony-ten-2
+http://172.16.29.3:8090/hls/sonyten2hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sonyten5.png", sonyten5
+http://172.16.29.3:8090/hls/sonyten5hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/starsports1.png", starsports1
+http://172.16.29.3:8090/hls/starsports1hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/eurosport.png", eurosport
+http://172.16.29.3:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/TSports.jpg", TSports
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/nicktv.png", nicktv
+http://172.16.29.3:8090/hls/nicktvhdplus.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/dicoveryKid.png", dicoveryKid
+http://172.16.29.3:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/pogo.png", pogo
+http://172.16.29.3:8090/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/durontotv.jpg", durontotv
+http://172.16.29.3:8090/hls/duronto.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/discoveryhd.png", discoveryhd
+http://172.16.29.3:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/andpic.png", andpic
+http://172.16.29.3:8090/hls/AndPictureTV.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/andtv.png", andtv
+http://172.16.29.3:8090/hls/AndPriveHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/Ary.png", Ary
+http://172.16.29.3:8090/hls/ARYDigital.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/Starlife.png", Starlife
+http://172.16.29.3:8090/hls/StarLifeHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/andflix.png", andflix
+http://172.16.29.3:8090/hls/andflixhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sonypix.png", sonypix
+http://172.16.29.3:8090/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/mn+.png", mn+
+http://172.16.29.3:8090/hls/axnhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/star-movies-hd.jpg", star-movies-hd
+http://172.16.29.3:8090/hls/starmovieshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/63masti.png", 63masti
+http://172.16.29.3:8090/hls/mastii.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/9xm.png", 9xm
+http://172.16.29.3:8090/hls/9xm.m3u8
