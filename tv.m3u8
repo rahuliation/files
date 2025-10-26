@@ -1,137 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/BPL.jpg", BPL
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/TSports.jpg",T SPORTS
 http://172.16.29.3:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Tsport.png", Tsport
-http://10.255.25.4/hls/tv2.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/pvtsports.png", pvtsports
-http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/gtv.png", gtv
-http://10.255.25.4/hls/tv3.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/starsports1.png", starsports1
-http://10.255.25.4/hls/tv1.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/deepto-tv.png", deepto-tv
-http://10.255.25.4/hls/tv4.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/geonews.png", geonews
-http://172.16.29.3:8090/hls/GEONews.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/aljazeranews.png", aljazeranews
-http://172.16.29.3:8090/hls/AlJazeeraNews.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/jamunatv.png", jamunatv
-http://172.16.29.3:8090/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/zeebangla.png", zeebangla
-http://172.16.29.3:8090/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/starjalsha.png", starjalsha
-http://172.16.29.3:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Sony Aath1667728032.png", Sony Aath1667728032
-http://172.16.29.3:8090/hls/sonyatth.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/enterbangla.png", enterbangla
-http://172.16.29.3:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/jalshamovies.png", jalshamovies
-http://172.16.29.3:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/zee-tv-hd.jpg", zee-tv-hd
-http://172.16.29.3:8090/hls/zeetvhd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/stargoldhd.png", stargoldhd
-http://172.16.29.3:8090/hls/stargoldhd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/colors.png", colors
-http://172.16.29.3:8090/hls/colorshd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/sonysports2.png", sonysports2
-http://172.16.29.3:8090/hls/sonyten2hd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/sonysports5.png", sonysports5
-http://172.16.29.3:8090/hls/sonyten5hd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/eurosport.png", eurosport
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/willow.png",WILLOW CRICKET
+http://172.16.29.3:8090/hls/WillowCricket2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/ptvsports.png",A SPORTS
+http://172.16.29.3:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/starsports2.png",STAR SPORTS 2
+http://172.16.29.3:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/starsportsselect1.png",STAR SPORTS SELECT
+http://172.16.29.3:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/starsportsselect2hd.png",STAR SPORTS SELECT 2
+http://172.16.29.3:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/willow.png",WILLOW CRICKET 2
+http://172.16.29.3:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/ptvsports.png",SPORTS LIVE
+http://172.16.29.3:8090/hls/sportsliveevents.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/ptvsports.png",XTREAM SPORTS
+http://172.16.29.3:8090/hls/xtreamsports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/ptvsports.png",STAR SPORTS
+http://172.16.29.3:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/ptvsports.png",STAR SPORTS 1
+http://172.16.29.3:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sonyten5.png",SONY TEN 5
+http://172.16.29.3:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sony-ten-2.png",SONY TEN 2
+http://172.16.29.3:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/eurosport.png",EUROSPORTS
 http://172.16.29.3:8090/hls/eurosportshd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/nicktv.png", nicktv
-http://172.16.29.3:8090/hls/nicktvhdplus.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/dicoveryKid.png", dicoveryKid
-http://172.16.29.3:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/pogo.png", pogo
-http://172.16.29.3:8090/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/durontotv.jpg", durontotv
-http://172.16.29.3:8090/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/discoveryhd.png", discoveryhd
-http://172.16.29.3:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/andpic.png", andpic
-http://172.16.29.3:8090/hls/AndPictureTV.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/andprive.png", andprive
-http://172.16.29.3:8090/hls/AndPriveHD.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Ary.png", Ary
-http://172.16.29.3:8090/hls/ARYDigital.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Starlife.png", Starlife
-http://172.16.29.3:8090/hls/StarLifeHD.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/andflix.png", andflix
-http://172.16.29.3:8090/hls/andflixhd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/sonypix.png", sonypix
-http://172.16.29.3:8090/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/Axnhd.jpg", Axnhd
-http://172.16.29.3:8090/hls/axnhd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/star-movies-hd.jpg", star-movies-hd
-http://172.16.29.3:8090/hls/starmovieshd.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/63masti.png", 63masti
-http://172.16.29.3:8090/hls/mastii.m3u8
-#EXTINF:-1 tvg-logo="http://10.255.26.2/img/9xm.png", 9xm
-http://172.16.29.3:8090/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/geonews.png", geonews
-http://172.16.29.3:8090/hls/GEONews.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/aljazeranews.png", aljazeranews
-http://172.16.29.3:8090/hls/AlJazeeraNews.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/zeebangla.png", zeebangla
-http://172.16.29.3:8090/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/starjalsha.png", starjalsha
-http://172.16.29.3:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sonyaath.png", sonyaath
-http://172.16.29.3:8090/hls/sonyatth.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/enterbangla.png", enterbangla
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sony-ten-1.png",SONY TEN 1
+http://172.16.29.3:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sony-ten-3.png",SONY TEN 3
+http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sony-ten-1.png",FUBO SPORTS
+http://172.16.29.3:8090/hls/fubosports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sony-ten-1.png",DD SPORTS
+http://172.16.29.3:8090/hls/ddsports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.3:8090/images/sony-ten-1.png",WORLD FREE SPORTS
+http://172.16.29.3:8090/hls/WorldofFreeSports.m3u8
+
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/gtv.png",GTV
+http://172.16.29.3:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/jamunatv.jpg",JAMUNA TV
+http://172.16.29.3:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/somoytv.jpg",SOMOY TV
+http://172.16.29.3:8090/hls/somoytv.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/channelihd.jpg",CHANNEL I
+http://172.16.29.3:8090/hls/channelihd.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/atnnews.jpg",ATN NEWS
+http://172.16.29.3:8090/hls/AtnNews.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/zeebangla.png",ZEE BANGLA
+http://172.16.29.3:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/enterbangla.png",ENTER10 BANGLA
 http://172.16.29.3:8090/hls/Enter10Bangla.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/jalshamovies.png", jalshamovies
-http://172.16.29.3:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/zeetv.png", zeetv
-http://172.16.29.3:8090/hls/zeetvhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/stargoldhd.png", stargoldhd
-http://172.16.29.3:8090/hls/stargoldhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/colors.png", colors
-http://172.16.29.3:8090/hls/colorshd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/zoomtv.png", zoomtv
-http://172.16.29.3:8090/hls/mtvindia.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sony.png", sony
-http://172.16.29.3:8090/hls/sonyhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/ptvsports.png", ptvsports
-http://172.16.29.3:8090/hls/ptvsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sony-ten-2.png", sony-ten-2
-http://172.16.29.3:8090/hls/sonyten2hd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sonyten5.png", sonyten5
-http://172.16.29.3:8090/hls/sonyten5hd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/starsports1.png", starsports1
-http://172.16.29.3:8090/hls/starsports1hd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/eurosport.png", eurosport
-http://172.16.29.3:8090/hls/eurosportshd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/TSports.jpg", TSports
-http://172.16.29.3:8090/hls/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/nicktv.png", nicktv
-http://172.16.29.3:8090/hls/nicktvhdplus.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/dicoveryKid.png", dicoveryKid
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/zeebanglacinema.png",ZEE BANGLA CINEMA
+http://172.16.29.3:8090/hls/ZeeBanglaCinemaHD.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/jalshamovies.png",JALSHA MOVIES
+http://172.16.29.3:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/colorsbangla.png",COLORS BANGLA
+http://172.16.29.3:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="http://172.16.29.3:8090/images/starjalsha.png",STAR JALSHA
+http://172.16.29.3:8090/hls/StarJalshaHD.m3u8
+
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/zeecinema.png",ZEE CINEMA
+http://172.16.29.3:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/sony.png",SONY HD
+http://172.16.29.3:8090/hls/SonyHD.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/zeetv.png",ZEE TV HD
+http://172.16.29.3:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/stargoldhd.png",STAR GOLD
+http://172.16.29.3:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/colors.png",COLORS HD
+http://172.16.29.3:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/sonyaath.png",SONY AATH
+http://172.16.29.3:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/sonymax.png",SONY MAX
+http://172.16.29.3:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/star-movies-hd.jpg",STAR MOVIES
+http://172.16.29.3:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="http://172.16.29.3:8090/images/starplus.png",STAR PLUS
+http://172.16.29.3:8090/hls/StarPlusHD.m3u8
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://172.16.29.3:8090/images/aljazeranews.png",ALJAZEERA NEWS
+http://172.16.29.3:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://172.16.29.3:8090/images/bbcworldnews.png",BBC WORLD
+http://172.16.29.3:8090/hls/bbc_world.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://172.16.29.3:8090/images/bbcworldnews.png",BBC EARTH
+http://172.16.29.3:8090/hls/bbcearthhd.m3u8
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://172.16.29.3:8090/images/sangeetbangla.png",SANGEET BANGLA
+http://172.16.29.3:8090/hls/SangeetBangla.m3u8
+
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://172.16.29.3:8090/images/discoveryhd.png",DISCOVERY KIDS
 http://172.16.29.3:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/pogo.png", pogo
-http://172.16.29.3:8090/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/durontotv.jpg", durontotv
-http://172.16.29.3:8090/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/discoveryhd.png", discoveryhd
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://172.16.29.3:8090/images/cnhd.png",CARTOON NETWORK
+http://172.16.29.3:8090/hls/CartoonNetworkHD.m3u8
+
+
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="http://172.16.29.3:8090/images/colorscineplex.png",COLORS CINEPLEX
+http://172.16.29.3:8090/hls/ColorsCineplexHD.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="http://172.16.29.3:8090/images/natgeo.png",NAT GEO WILD
+http://172.16.29.3:8090/hls/NatGeoWild.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="http://172.16.29.3:8090/images/discoveryhd.png",DISCOVERY
 http://172.16.29.3:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/andpic.png", andpic
-http://172.16.29.3:8090/hls/AndPictureTV.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/andtv.png", andtv
-http://172.16.29.3:8090/hls/AndPriveHD.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/Ary.png", Ary
-http://172.16.29.3:8090/hls/ARYDigital.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/Starlife.png", Starlife
-http://172.16.29.3:8090/hls/StarLifeHD.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/andflix.png", andflix
-http://172.16.29.3:8090/hls/andflixhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/sonypix.png", sonypix
-http://172.16.29.3:8090/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/mn+.png", mn+
-http://172.16.29.3:8090/hls/axnhd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/star-movies-hd.jpg", star-movies-hd
-http://172.16.29.3:8090/hls/starmovieshd.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/63masti.png", 63masti
-http://172.16.29.3:8090/hls/mastii.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.29.28/assets/images/9xm.png", 9xm
-http://172.16.29.3:8090/hls/9xm.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="http://172.16.29.3:8090/images/discoveryhd.png",ANIMAL PLANET
+http://172.16.29.3:8090/hls/AnimalPlanetHD.m3u8
